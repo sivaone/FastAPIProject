@@ -123,3 +123,4 @@ Desktop.ini
 # HTTP files
 #*.http
 
+.venv/
